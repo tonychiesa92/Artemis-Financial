@@ -3,7 +3,7 @@
 ## About
 
 
-<img src="./" alt="Artemis-Financial-logo" height="500" width="500"/>
+<img src="./CS 305 Artemis Financial.png" alt="Artemis-Financial-logo" height="500" width="500"/>
 
 ## Motivation
 
