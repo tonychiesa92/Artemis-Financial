@@ -15,7 +15,9 @@ Artemis Financial is seeking to add a file verification step to their web applic
 
 
 ## Usage
+The Vulnerability Assessment Report inclueds Interpreting Client Needs, Areas of Security, Manual Review, Static Testing, and a Mitigation Plan.
 
+The Practices for Secure Software Report includes the Algorithm Cipher, Certificate Generation, Deploy Cipher, Secure Communications, Secondary Testing, and Functional Testing.
 
 ## Screenshots
 
@@ -23,10 +25,7 @@ Artemis Financial is seeking to add a file verification step to their web applic
 
 
 ## Applying Skills Learned To Future Development Projects
-The Practices for Secure Software Report includes the Algorithm Cipher, Certificate Generation, Deploy Cipher, Secure Communications, Secondary Testing, and Functional Testing.
-
 - What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
-
 
 - What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
