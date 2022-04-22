@@ -1,14 +1,11 @@
 # Artemis-Financial
+<img src="./CS 305 Artemis Financial.png" alt="Artemis-Financial-logo" height="225" width="500"/>
 
 ## About
 Artemis Financial is a financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons. As an important step in Artemis Financial’s desire to modernize its operations and as a crucial part of the success of their custom software, they want to implement and apply the most current and effective software security. Artemis Financial has a public web interface and is seeking expertise in taking steps to protect their client data and financial information.
 
-
-
-<img src="./CS 305 Artemis Financial.png" alt="Artemis-Financial-logo" height="225" width="500"/>
-
-## Motivation
-Artemis Financial is seeking to add a file verification step to their web application to ensure secure communications. When the web application is used to transfer data, they will need a data verification step in the form of a checksum. You have been asked to take their current software application and add secure communication mechanisms to meet their software security requirements. You will deliver a production quality integrated application that includes secure coding protocols.
+## Motivation & Requirements
+Artemis Financial is seeking to add a file verification step to their web application to ensure secure communications. When their web application is used to transfer data, they will need a data verification step in the form of a checksum. I have been asked to take their current software application and add secure communication mechanisms to meet their software security requirements. The final deliverable will be a production quality integrated application that includes secure coding protocols.
 
 
 ## Getting Started
@@ -26,10 +23,10 @@ Artemis Financial is seeking to add a file verification step to their web applic
 
 
 ## Applying Skills Learned To Future Development Projects
-
-- Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+* The Practices for Secure Software Report includes the Algorithm Cipher, Certificate Generation, Deploy Cipher, Secure Communications, Secondary Testing, and Functional Testing.
 
 - What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+
 
 - What about the process of working through the vulnerability assessment did you find challenging or helpful?
 
