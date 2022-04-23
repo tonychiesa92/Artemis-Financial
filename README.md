@@ -24,14 +24,8 @@ The Practices for Secure Software Report includes the Algorithm Cipher, Certific
 
 
 ## Applying Skills Learned To Future Development Projects
-- What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 
-- What about the process of working through the vulnerability assessment did you find challenging or helpful?
+Utilizing the vulnerability assessment allowed me to identify all the potential security risks. Using secure coding techniques is important because it ensures data integrity which gives confidence when using the data in a business environment. The overall value of software security to a company is that it keeps public trust, this is extremely important for a financial company like Artemis Financial. The assessment was helpful in identifying the vulnerable of the system, the challenge then became on determining which actions were required to close the vulnerabilities.Using a check sum verification process or another algorithmic approach creates a standard approach to the need for increased layers of security. Whether it’s using encryption, applying updates immediately, or multi-factor authentication, having a comprehensive and ongoing risk assessment process in the future will help determine which technique is required for any situation that arises. To ensure the code and software application were functional and secure I ran code with no errors and verified output to see if it was what was expected
 
-- How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
-
-- How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
-
-- What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
-
-- Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+## Summary
+During this project I implemented a protected RestController to act as the secure controller for my program's hash RESTful stop. The ServerController class is responsible for matching the issues depicted in the vulnerability assessment diagram. I also selected to use the SHA-256 hashing cipher since it is incredibly safe and has a very low probability of collisions. Using the SHA-256 algorithm, the chance of a collision is 1 in 2^256. This is secure enough to be trusted by the United States Federal Government as the Department of Defense (DoD) industry standard. To maintain the application's existing security, in the future I would recommend scheduled dependency checks to stay up to speed on any vulnerabilities as well as an appropriate plan utilizing a continuous integration and continuous delivery tool like Jenkins, which would allow for security to be continuously checked at all levels of the lifecycle. 
