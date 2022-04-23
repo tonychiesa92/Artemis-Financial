@@ -7,14 +7,11 @@ Artemis Financial is a financial consulting company that develops individualized
 ## Motivation & Requirements
 Artemis Financial is seeking to add a file verification step to their web application to ensure secure communications. When their web application is used to transfer data, they will need a data verification step in the form of a checksum. I have been asked to take their current software application and add secure communication mechanisms to meet their software security requirements. The final deliverable will be a production quality integrated application that includes secure coding protocols.
 
-
-## Getting Started
-
-
-## Installation and Tools
-
-
 ## Usage
+This repo includes:
+
+The code base for the project.
+
 The Vulnerability Assessment Report inclueds Interpreting Client Needs, Areas of Security, Manual Review, Static Testing, and a Mitigation Plan.
 
 The Practices for Secure Software Report includes the Algorithm Cipher, Certificate Generation, Deploy Cipher, Secure Communications, Secondary Testing, and Functional Testing.
