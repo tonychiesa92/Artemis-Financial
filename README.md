@@ -17,7 +17,9 @@ The Vulnerability Assessment Report inclueds Interpreting Client Needs, Areas of
 The Practices for Secure Software Report includes the Algorithm Cipher, Certificate Generation, Deploy Cipher, Secure Communications, Secondary Testing, and Functional Testing.
 
 ## Screenshots
-
+<img src="./cert.png" alt="cert" height="200" width="300"/>
+<img src="./cipher.png" alt="cipher" height="200" width="600"/>
+<img src="./dependency-check.png" alt="dependency-check" height="300" width="500"/>
 
 
 
